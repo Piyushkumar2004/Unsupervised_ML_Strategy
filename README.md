@@ -63,8 +63,7 @@ The cumulative return of the optimized strategy is compared with the cumulative 
 - `pandas`: Data manipulation and resampling.
 - `matplotlib`: Plotting results.
 
-## Usage
 
-![Results of Trading Strategy](./results.png)
+![Results of Trading Strategy](./Results.png)
 
 
