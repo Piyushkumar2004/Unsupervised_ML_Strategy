@@ -65,6 +65,6 @@ The cumulative return of the optimized strategy is compared with the cumulative 
 
 ## Usage
 
-1. Install the required dependencies using:
-   ```bash
-   pip install -r requirements.txt
+![Results of Trading Strategy](./results.png)
+
+
