@@ -20,14 +20,14 @@ The final strategy is compared with a buy-and-hold strategy for the S&P 500.
 
 ## Technical Indicators Used
 
-2. **RSI (Relative Strength Index)** - Indicates Momentum of the stocks.
+1. **RSI (Relative Strength Index)** - Indicates Momentum of the stocks.
 
 
 ## Steps and Calculations
 
 1. **Download Stock Data**: The stock data for the S&P 500 constituents is downloaded from Yahoo Finance for the last 8 years.
 2. **Calculate Technical Indicators**: RSI is computed for each stock using the `pandas-ta` library.
-3. **Return Calculation**: 14-day period returns are calculated.
+3. **Return Calculation**: each day returns are calculated.
 
 ## Clustering and Strategy
 
